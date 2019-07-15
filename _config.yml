@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Ankur Guria"
-  avatar           : #"/assets/images/a9816fb9-1d1f-4a62-8c40-0cbe6a84ed6b_200x200.png"
+  avatar           : "/docs/assets/images/android-chrome-96x96.png"
   bio              : "Machine Learning and Data Science enthusiast | Physics undergrad at IISER, Bhopal"
   location         : "India"
   email            :
