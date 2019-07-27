@@ -106,27 +106,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ankur Guria"
+  #name             : "Ankur Guria"
   avatar           : "images/a9816fb9-1d1f-4a62-8c40-0cbe6a84ed6b_200x200.png"
-  bio              : "Machine Learning and Data Science enthusiast | EECS undergrad at IISER, Bhopal"
+  #bio              : ""
   location         : "India"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: ankurguria232@gmail.com
+      url: 
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "ankurguria.github.io"
+      url: "deeppapers.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/guria_ankur"
+      url: ""
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/ankur.guria.7"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ankurguria"
+      url: ""
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
