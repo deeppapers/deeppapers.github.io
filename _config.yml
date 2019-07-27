@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Demystifying Deep Neural Networks (D2N2)"
 title_separator          : "|"
-name                     : "ANKUR GURIA"
+#name                     : "ANKUR GURIA"
 description              : "A blog discussing research papers on all different types of neural networks"
-url                      : "https://ankurguria.github.io"
+url                      : "https://deeppapers.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Ankur Guria"
   avatar           : "images/a9816fb9-1d1f-4a62-8c40-0cbe6a84ed6b_200x200.png"
-  bio              : "Machine Learning and Data Science enthusiast | Physics undergrad at IISER, Bhopal"
+  bio              : "Machine Learning and Data Science enthusiast | EECS undergrad at IISER, Bhopal"
   location         : "India"
   email            :
   links:
