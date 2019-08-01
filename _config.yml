@@ -306,3 +306,5 @@ defaults:
       layout: splash
       classes: wide
       author_profile: true
+
+theme: jekyll-theme-time-machine
