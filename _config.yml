@@ -307,4 +307,4 @@ defaults:
       classes: wide
       author_profile: true
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
